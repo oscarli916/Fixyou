@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "apt-port-274210",
+  "private_key_id": "f8e61e946a0f6c77702bcd75e01564df4591d7c3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDUei56TGwoInkM\nuZOhe0C5rwb0vlPz0Kfhmf8dd0AxNQJuQ8p8UzoDYOk4WSjOxQVpmwTgDAf9qCmZ\nbz11YkQ+xdfk3yifbgzBORDrkvUxGCjI2nTkIVvnSzvFaiI9nP2+tDXRS0HR0Ivf\nnGmqZkW7H5RqHYOfT5H5hq23/IJlZQd65eqDZgOlN/bMuxnyagA4UtEh02iQ5bbB\nouG/ORDgyDC5Na+HDYM5uzrKz85fwpkH0v/m8DLAF+KaaSSkjzWcT7oZ+khVXXlE\nh2RtdQOZA6Q+lKNiYPjHOCDJQBo8qel0zZkgi0lKTFpxP9x+LIBKwiJvzh46xXd/\n37zREEJlAgMBAAECggEAHrimyTSNC9WGKpaXd6j2QBLEPvVY9p8D8wzc0+IW5DZ9\nqjs/hu/SqsPjnKvZiGH4yR7qmslqi1y53Q82M+d4Jhpdf6Bbg4e6LOLnJSSLsqRD\nW10ouwZuvxfD5eSVXFK7ZowwXtlShDdyzetT5NkiOm7Tuu8XBZ0P5mP4cKqAIRAx\nv1BhIqQZrAUoQaAwZzhWsP04slszF6MvvTQv7KeOFOCht/lERaCKwx+9boDxJijE\n0oRPoPimjPCZA9Po4zG4dA7aVoDgQu5n4EbV4+QKVPgN6rbYTjR52NXaSjBwwDhy\n5Sh7Rb8qc6ogNHHOMMcqItt1tkAcV21++N5jFdaiOQKBgQDzAvSZ+uaPX8patiK6\nxroyBI50c59l8fP6Gpw5scZ2B+VvVm15JCU6c7CwyH1uwaSrPxITRerRXtWHrMpL\n3KhaQwnrm6V+BWwPB4maEnSXZeUzoQc4FqICNjnykJmUrpooNB8+r+6FUO1xEJV2\n9BPEXKyEy9hLNESLTrnEVWbmWQKBgQDf1W+cTMkQswLR+LCJfoMko4ypsD0rj9B5\n9XaRcbL3A+dMXlhUyFhfC0iyBvVfVoaeHLCTVRdASE/3RFhO34nEoJE4AL1xw8On\nj3Wyq2d0+RWKhgqH/h0Zo4AcuiIvDsu0UoyH3JdwHP1b87OjqwGk6xOG4xT6eZc/\nYQE6y5jS7QKBgQCLegPIKRCR8+nhvK4cQ5l0wda9ketICOH+h61pE9cTwZ53E8UL\nhap0bRhZrwkHO892lmGafEO1Xdfy4kLN3d0myVl1SEVpGlWWHr5klvkiOFKgGmlZ\nUOw1lsgVp9buVnSWZKwWP8YH8JYHkfwnZRm/V22RXqpLJ7m7tzi6LkY8KQKBgHsW\nPNz/oKXNOuTKVBIX/vf79BMwNkMpP6SBZiVPF/IcNGpbi0l8LpR9eQllKDO4Oiji\nb/tlFHcmDMtVyxX8eR8miRT52zOfSo1vJ3MMLMU3YDAfy9TC2a/KqF2jwb6M7VoI\n9vyTQrfFSVHybru3Ax10o/VOFLA0gwa4SlvRsAV1AoGAAOdTZEVMjI9H95LQ0BoD\n20L63ywIQLSNMwM/go3Eu1JH91SIAndF5yha4+6buhGaFLJ6nJUXAGKnZA/on40P\nX5p5PMVCagiK5yeWE94/cYOepGIaYr0Q1r4ZPPOcUFv1G+OmEqEoV+CbA9XCgseK\ncJhS3FGOI3bfZdjx3H/HJ3o=\n-----END PRIVATE KEY-----\n",
+  "client_email": "quant-raiser-api-693@apt-port-274210.iam.gserviceaccount.com",
+  "client_id": "113111123310372291006",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/quant-raiser-api-693%40apt-port-274210.iam.gserviceaccount.com"
+}
